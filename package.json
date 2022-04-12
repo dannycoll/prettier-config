@@ -1,5 +1,5 @@
 {
-  "name": "prettier-config",
+  "name": "dannycoll-prettier-config",
   "version": "1.0.0",
   "description": "Prettier config for use across projects",
   "main": "index.js",
