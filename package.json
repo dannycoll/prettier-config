@@ -13,9 +13,9 @@
   },
   "author": "Daniel Collins",
   "bugs": {
-    "url": "https://github.com/zestia/prettier-config/issues"
+    "url": "https://github.com/dannycoll/prettier-config/issues"
   },
-  "homepage": "https://github.com/zestia/prettier-config",
+  "homepage": "https://github.com/dannycoll/prettier-config",
   "license": "ISC",
   "dependencies": {
     "release-it": "^14.14.2"
